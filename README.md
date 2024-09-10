@@ -1,2 +1,3 @@
-# svg-masfudin
-Kumpulan asset SVG
+# SVG Masfudin
+
+Repository yang berisi kumpulan asset bertipe SVG, dibuat melalui platform Figma.
